@@ -18,8 +18,9 @@ return loudFacts
 }
 function iLoveTheBeatles(n) {
 const beatleLove = []
-}
+
 do {
-  return beatleLove
+  beatleLove.push('I love the beatles!')
+  n++
 } while (n < 15);
 }
