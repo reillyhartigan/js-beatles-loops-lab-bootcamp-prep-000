@@ -17,5 +17,9 @@ while (i < facts.length) {
 return loudFacts
 }
 function iLoveTheBeatles(n) {
-
+const beatleLove = []
+}
+do {
+  return 
+} while (n < 15);
 }
