@@ -16,13 +16,3 @@ while (i < facts.length) {
 }
 return loudFacts
 }
-function iLoveTheBeatles(n) {
-  const arr
-
-  do {
-      arr.push('I love the Beatles!')
-      n++
-    } while (n < 15)
-
-    return arr
-  };
