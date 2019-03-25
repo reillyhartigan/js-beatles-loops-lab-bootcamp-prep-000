@@ -17,12 +17,12 @@ while (i < facts.length) {
 return loudFacts
 }
 function iLoveTheBeatles(n) {
-  const newArr
+  const arr
 
   do {
-      newArr.push('I love the Beatles!')
+      arr.push('I love the Beatles!')
       n++
     } while (n < 15)
 
-    return newArr
+    return arr
   };
