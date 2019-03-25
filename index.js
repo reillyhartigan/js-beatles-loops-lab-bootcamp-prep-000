@@ -20,7 +20,8 @@ function iLoveTheBeatles(n) {
 const beatleLove = []
 
 do {
-  beatleLove.push('I love the beatles!')
+  beatleLove.push('I love the Beatles!')
   n++
 } while (n < 15);
+return beatleLove
 }
